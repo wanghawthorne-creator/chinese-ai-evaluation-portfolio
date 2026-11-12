@@ -1,0 +1,18 @@
+# Local/private research inputs
+/work/
+/private/
+/attachments/
+/raw-chats/
+/data/private/
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*.json
+secrets*.json
+*.log
+.DS_Store
+Thumbs.db
+__pycache__/
